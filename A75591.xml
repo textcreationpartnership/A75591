@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Army's declaration: being a true alarum in ansvver to a false and fiery one made lately by a member of that destable [sic] Rump and printed for Livewell Chapman. By a member of the Army now in London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75591</idno>
+            <idno type="STC">Wing A3712A</idno>
+            <idno type="STC">Thomason E1019_18</idno>
+            <idno type="STC">ESTC R208328</idno>
+            <idno type="EEBO-CITATION">99867286</idno>
+            <idno type="PROQUEST">99867286</idno>
+            <idno type="VID">119591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75591)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119591)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1019[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Army's declaration: being a true alarum in ansvver to a false and fiery one made lately by a member of that destable [sic] Rump and printed for Livewell Chapman. By a member of the Army now in London.</title>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for prevention of sedition and mutiny,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to an untraced work.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "April. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119591:1" rendition="simple:additions"/>
+            <p>THE Army's Declaration: Being a True ALARUM IN ANSVVER TO A Falſe and fiery one made lately by
+a Member of that deſtable RUMP And printed for <hi>Livewell Chapman.</hi>
+            </p>
+            <p>
+               <hi>By a member of the Army now in</hi> LONDON.</p>
+            <p>Printed for prevention of Sedition and Mutiny, in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119591:2"/>
+            <pb n="1" facs="tcp:119591:2"/>
+            <head>
+               <hi>The Armies Declaration,</hi> Being a true Alarum in anſwer to a falſe and fiery one,
+made lately by that deteſtable <hi>Rump,</hi> &amp;c.</head>
+            <opener>
+               <salute>Brethren and Fellow-Souldiers,</salute>
+            </opener>
+            <p>VVHen I conſider thoſe unparallel'd acti<g ref="char:EOLhyphen"/>ons both of ſcandal and ſedition, thoſe many
+changes and overthrows in Go<g ref="char:EOLhyphen"/>vernment, thoſe ſtrange and horrid Oaths and Engage<g ref="char:EOLhyphen"/>ments, which
+by the ſubtilty of a few turbulent and ſe<g ref="char:EOLhyphen"/>ditious ſpirits, we have been ſeduced to make our
+ſelves guilty of, how that by the knacks and pretences of am<g ref="char:EOLhyphen"/>bitious Uſurpers, we have almoſt
+been the ruine of our native Countrey: and under pretence of liberty both of State and
+Conſcience, have almoſt overwhelmed the Nation with Anarchy in State, and the ſtrangeſt
+confu<g ref="char:EOLhyphen"/>ſion in the Church; whereby not only the glory of the Nation is decayed, but our ſelves
+made infamous to all poſterity, if by our ſpeedy repentance, we do not re<g ref="char:EOLhyphen"/>turn from our
+backſlidings, and with heart and hand joyne together, for the reſtitution of it to its for<g ref="char:EOLhyphen"/>mer
+happineſs. When (I ſay) I conſider theſe things, I cannot but with the greateſt grief and
+regret deteſt and abhor thoſe enormous crimes, which by the inſtigation and deluſion of our
+Superiors we have day<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:119591:3"/>been guilty of, and are (it ſeems) again courted un<g ref="char:EOLhyphen"/>to, by thoſe grand
+contrivers of the Nations ruine, which as they have formerly, ſo (conceive) once more they
+ſhall by their ſpurious mask of a Good old Cauſe, and defence of the good people of the Land,
+the glori<g ref="char:EOLhyphen"/>ous pretences of Freedom and Liberty, both as men and Chriſtians, and ſuch like
+hypocritical cantings, ſeduce and draw us from the obedience of our General, and the real
+authority; to the Egyptian bondage of an Anar<g ref="char:EOLhyphen"/>chical tyranny, and to the inevitable ruine both of
+our ſelves, and the Nation.</p>
+            <p>Being truly ſenſible of theſe their machinations, which are not onely ſecretly carried
+amongſt us, and the ſeeds of Sedition privately ſowed, but they are bold to give us loud
+Alarums, and to our no ſmall ignominy proclaim to the world, that they conceive us fit perſons
+for any villany, which can but cunningly be ſuggeſted to us, in defence therefore not onely of
+my ſelf as a Member of the Army, but alſo of you my fellow-ſouldiers (whom I am confident
+will unaimouſly ſubſcribe to what <hi>I</hi> have here written) I here preſent both you and
+the world with a true Alarum, in oppoſition to that falſe fire which was lately ſhot in by
+the Rump amongſt us.</p>
+            <p>The Gentleman (or as ſome ſay the Villain, <hi>T. Scot</hi>) begins his Libel with
+ſomething to our purpoſe: ſtan<g ref="char:EOLhyphen"/>ders by do often ſee more then the Gameſter, He little
+conſiders how ample teſtimony we can give to the truth of this; not knowing I ſuppoſe, that
+whilſt we have re<g ref="char:EOLhyphen"/>ſided in <hi>Scotland,</hi> and ſo have been remote from their actions and
+undertakings we have had leiſure and expe<g ref="char:EOLhyphen"/>rience to ſearch them to the depth, and find them to
+be a crew of Atheiſtical, perfidious, and traiterous Raſcals,
+<pb n="3" facs="tcp:119591:3"/>who whilſt they have by a cloſe and well-carried hypo<g ref="char:EOLhyphen"/>criſie made the glory
+of God, and liberty of the people their outward pretences, have onely bent themſelves to
+encreaſe their own eſtates, and perpetuate their pow<g ref="char:EOLhyphen"/>er, to the utter inſlaving of all
+Engliſh men. He need not tell us he hath diſcovered more then many of us, when either he hath
+not yet known, or elſe pretends him. ſelf ignorant, that we ſo far deteſt ſuch villanons
+uſur<g ref="char:EOLhyphen"/>pers, that we almoſt hate and loath our ſelves, for our ever being ſeduced and drawn
+aſide by ſuch impudent and juggling Mountebanks</p>
+            <p>I beſeech you Brethren, pardon my tranſportation, which I confeſs to be a little beyond
+the bounds of a mo<g ref="char:EOLhyphen"/>derate Reply; but what can a perſon deſerve at our hands, who hath
+ſcandalized, and traitorouſly indea<g ref="char:EOLhyphen"/>voured the ruine and deſtruction of our renowned
+Gene<g ref="char:EOLhyphen"/>ral, who notwithſtanding the black-mouth'd envie of ſuch helliſh firebrands, will
+ſtill be found to terminate all his actions in the peace and ſettlement of his Coun<g ref="char:EOLhyphen"/>try and
+Nation. But leaſt my Gentleman ſhould think he had too hard meaſure, and call this onely
+railing at random, I ſhall take notice of ſuch particular heads of his papers, as may beſt
+require an anſwer, or deſerve ta<g ref="char:EOLhyphen"/>king notice of.</p>
+            <p>The Baſis on which he builds all the reſt of his diſ<g ref="char:EOLhyphen"/>courſe, is the old cheat and
+juggle, wherewith we and the Nation were Gulled in 1648. Wherein, ſaith he, you ingaged and
+promiſed, <hi>That you would ſee the Govern<g ref="char:EOLhyphen"/>ment of theſe Nations eſtabliſhed upon the
+juſt and ſecure fun<g ref="char:EOLhyphen"/>damentals and conſtitutions of Freedom: and Safety to the people, in
+relation as they were men and Chriſtians, and that in the waies of a Common-wealth, and
+Free-State-Government,
+<pb n="4" facs="tcp:119591:4"/>without King, ſingle Perſon, or Houſe of Lords.</hi> This is that (which
+the Gentleman endeavours to perſwade us throughout his whole Pamphlet) we are obliged to
+per<g ref="char:EOLhyphen"/>fiſt in to our lives end; and in this cauſe undertaking ſole<g ref="char:EOLhyphen"/>ly, we muſt (according to
+his Opinion) onely expect the bleſſing and aſſiſtance of Almighty God; and to recede a
+jot from this, is to turn Apoſtates from the cauſe of God, and to encur the danger of our own
+ruine and de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>I ſhall not perplex the man with multiplicity of words, onely deſire him to ponder theſe
+two particulars. Firſt, Whether his Maſters and fellow partners in iniquity, who were the
+cauſe and promoters of this Engage<g ref="char:EOLhyphen"/>ment, did not long before (not onely at their entrance in<g ref="char:EOLhyphen"/>to
+the Parliament-houſe, but alſo ſolemnly in the ſolemn League and Covenant) ſware and
+proteſt in the preſence of God, and the face of the world, that they would main<g ref="char:EOLhyphen"/>tain the King
+in his juſt Rights and Privileges, and pre<g ref="char:EOLhyphen"/>ſerve his poſterity; and whether this was not the
+onely ground and reaſon that we, and ſo many honeſt men in the Nation were induced to take,
+up arms and aſſert their intereſt. Secondly, Whether it can be made out by the Laws of God or
+man, that an Oath utterly unlawful in it ſelf, and wholly deſtructive to the good of a Nation,
+ought rather to be kept, then repented of.</p>
+            <p>I ſuppoſe neither he nor his Companions can be ſo im<g ref="char:EOLhyphen"/>pudent as to deny (though they have
+been ſo impious as to forſwear themſelves) the firſt particular; but methinks I hear them
+preſently ready to reply, that they intended no more by the taking that Oath, then the
+maintenance and preſervation of themſelves and the people; and that they found it abſolutely
+neceſſary for the good of the Na<g ref="char:EOLhyphen"/>tion,
+<pb n="5" facs="tcp:119591:4"/>to infringe and forget this their ſolemn Covenant: That they alwayes reſerved
+to themſelves that mental reſervation, provided the ſafety of the King, might be for their
+own, and the ſecurity of the good people of the Land: That where the Liberties of the Nation were
+ſo highly concerned, there <hi>Salus Populi, ſuprema Lex esto;</hi> The ſafety of the people
+muſt be the onely interpreter of all their reiterated Oaths and proteſtations; and upon theſe
+ſpecious and guilded pretences they proceeded to the cutting off their lawful Soveraigne, and
+craftily draw us in to be Bauds to their actions, whileſt we ſuffer our ſelves to be cheated
+with thoſe Golden baits of Re<g ref="char:EOLhyphen"/>ligion and Liberties; and ſo whileſt we mean nothing but good,
+cauſe us to perpetrate the height of' miſchiefs: Having broken the firſt Article of their
+Oath, the pre<g ref="char:EOLhyphen"/>ſervation of the Kings Majeſty, they preſently conclude there can be no way to
+maintain their wicked actions, but by committing a ſecond as horrid and villanous, and ſo
+proceed to the utter excluſion and baniſhment of his Poſterity; a crime which even the Turks
+themſelves would be aſhamed to perpetrate.</p>
+            <p>And now muſt we be drawn in to be compartners of their Villanies? they by all the canting
+terms and ſpiri<g ref="char:EOLhyphen"/>tual expreſſions, the quainteſt of their Independent ad<g ref="char:EOLhyphen"/>herents can invent,
+repreſent the Kingly Government as arbitrary and tyrannical, and that England could never enjoy a
+firm peace and ſecurity, but by the utter aboliſh<g ref="char:EOLhyphen"/>ing of a Monarchical Government; and we who
+were only led by the blind faith we had in our (as we thought) Religious Commanders, are eaſily
+drawn into the net, and ſuffer our ſelves to be caught in that ſnare, which have ſince
+found, did intangle the Nation in ſuch fetters
+<pb n="6" facs="tcp:119591:5"/>as have not been by any Power to be knocked off.</p>
+            <p>But now ſince it hath pleaſed God of his mercy to o<g ref="char:EOLhyphen"/>pen our eyes, and make us (by his
+bleſſing upon our Ge<g ref="char:EOLhyphen"/>neral's indefatigable endeavours) in ſome ſort inſtrumen<g ref="char:EOLhyphen"/>tal to the
+reſtoring of our Countrey from that bondage which ſhe hath by our deluſions long groaned
+under; let not theſe impious and unparalel'd Traytors think us ei<g ref="char:EOLhyphen"/>ther ſo ſottiſh as to
+return with the Dog to his vomit, or ſo ſeired in our conſciences, as not ſeriouſly to
+repent of our former miſcarriages. We confeſs we tooke an Oath to ſet up a Common-wealth; but
+we never ſwore to deſtroy the Nation, we engag'd to defend the People of God, but never to
+maintain a crew of Atheiſtical hy<g ref="char:EOLhyphen"/>pocrites: Nay further, We confeſs we engaged againſt a King
+or Houſe of Lords, but did not by that intend the ruine of our Native Countrey; and when theſe
+two come in competition, that either we muſt relinquiſh and recede from this our Engagement, or
+elſe ſtill be made uſe of to enſlave our Countreymen, and utterly deſtroy our already
+dying Stare: We cannot be ſo ſtupid and ſenceleſſy bewitched, not to think it better
+ſeriouſly to crave pardon of God for this our Engagement, and the Nation for the wrong we have
+hitherto done them, then by our obſtinate perſiſting in ſuch wicked Engagements, ſell our
+ſelves to the Devil, and the Kingdom to ruine.</p>
+            <p>The next point of this pious Gentleman's deſign, is no leſs, to make us turn abſolute
+Rebels to our General, and upon this his grand endeavours are, under the notion of
+Cavalier-Reports, to make him a deſigner of bringing and reſtoring the late King's Son. We will
+not diſpute whether this be his insentions, onely we ſhall take occa<g ref="char:EOLhyphen"/>ſion to tel the
+Gentleman in a word, That we are no ſuch
+<pb n="7" facs="tcp:119591:5"/>Enomies to the Nation as he takes us to be, but do ſo<g ref="char:EOLhyphen"/>lemnly reſolve, That if
+it ſhall ſeem good to the Nation and our General to reſtore the baniſhed Prince to his
+rightful Inheritance, we ſhall with one heart and hand readily ſubmit to, and concur with them
+in it; and as we have been ſo ſignal for our diſobedience, ſo for the fu<g ref="char:EOLhyphen"/>ture endeavour to
+teſtifie our ſelves true and loyal ſub<g ref="char:EOLhyphen"/>jects to our Prince, and faithful and loving defenders
+of our Countrey.</p>
+            <p>In the next place our Libeller craftily endeavours to render our General odious to the
+Presbyterian party, and like a wiſe man indeed, hath no other way to bring it about, but by
+telling them he will and doth intend to bring in King <hi>Charles,</hi> as if that were ſuch a
+Bug-bear to a ſober Presbyterian: but (ſaith he) <hi>if he be reſtored, there must
+neceſſarily likewiſe throng in with him Arch-Biſhops, Biſhops, and the reſt of that
+Hierarchy, and they ſhall then be accounted no other by them, but Sectarians and Phanaticks,
+&amp;c.</hi> Alas my friend! you are too well known for a lying impoſter, to be able to impoſe
+any of theſe forgeries up<g ref="char:EOLhyphen"/>on any ſober or godly <hi>Presbyterian</hi> whatſoever; nor is
+there ſo great difference between a moderate <hi>Epiſcopal</hi> man, and a ſober
+<hi>Presbyterian,</hi> but that both will jointly meet and kiſs each other, for the ſettlement
+of the Nati<g ref="char:EOLhyphen"/>on in peace and unity. But the man hath yet a fetch far<g ref="char:EOLhyphen"/>ther, <hi>The Queens Mother
+will come, and then Moncks, Ieſu<g ref="char:EOLhyphen"/>its and Prieſts of all ſorts will ſhe bring with her, and
+ſo Pope<g ref="char:EOLhyphen"/>ry will (cum Privilegio) be again readmitted into the Nation.</hi> I perceive that a
+ſmall ſuppoſition is ſufficient for this Libeller to build a concluſion on; it is ten to
+one whether ever the Queen return again, though the King be reſto<g ref="char:EOLhyphen"/>red to his Right, and ſhould
+ſhe, yet cannot thoſe hou<g ref="char:EOLhyphen"/>ſhold
+<pb n="8" facs="tcp:119591:6"/>ſervants ſhe brings with her, though they ſhould all be Jeſuits,
+Prieſts, &amp;c. be ſo dangerous and deſtru<g ref="char:EOLhyphen"/>ctive to Religion as thoſe innumerable
+multitudes of thoſe people who at preſent lurk in our Phanatick Con<g ref="char:EOLhyphen"/>venticles.</p>
+            <p>His next particular conſiſts in advice and dehortati<g ref="char:EOLhyphen"/>ons from thoſe perſons whom he
+calls our beſts friends, and the good people of the Nations, thoſe whom he ſaith bled with
+us, prayed for us, and been conſtant aſ<g ref="char:EOLhyphen"/>ſertors of the Intereſt of the Nation, againſt
+King-ſhip, ſingle perſon, or Houſe of Lords; and what think my Brethren, are theſe our
+ſo good friends, but thoſe who having made a gainfull bargain by embarking themſelves in a
+quarrel againſt their Prince, do ſhiver at all thoughts of a reconciliation, leſt a
+reſtitution of their ill gotten goods ſhould follow; and would now make us believe it is the
+Intereſt of the Nation, though with ne<g ref="char:EOLhyphen"/>ver ſo much expence of blood and treaſure; never ſo
+ma<g ref="char:EOLhyphen"/>ny perjuries and acts of Rebellion, to maintaine theſe men in their wrongfully gotten, and we
+might juſtly ſay as wrongfully detained Poſſeſſions and Acquiſts.</p>
+            <p>But to proceed; they tell us, <hi>We are the onely Bulwark they must relye upon, and if we fail,
+the Cauſe of God muſt ſinck with us; and that to bring our deſtruction about (and for no
+other ends) the Militia throughout England is ſetled in ſuch hands as are perfect haters and
+oppoſers of our Intereſt; and that above all others the Militia of London do threaten (as the
+Danes were formerly ſerved) to make a black and bloody Night in cutting our throats, and offering
+whole Hecatombs of our Carkaſſes to the reſtitution of</hi> Charles, <hi>whom they call their
+King.</hi> Surely the Gentleman thinks we have as bad conſciences as themſelves, and that
+becauſe we cannot
+<pb n="9" facs="tcp:119591:6"/>pardon our ſelves, the Nation can never be induced to pardon us; but let him
+and his fellow Phanaticks know, That the Army hath no reaſon to feare the People of
+<hi>England,</hi> when they ſeperate themſelves from their cor<g ref="char:EOLhyphen"/>rupted intereſt, and the Army
+can expect no truer friend, or ſurer pay-maſter then the City or <hi>London,</hi> as long as
+the army ſhall truly prove friends to the cauſe of the Nation; and that this Cauſe and the
+Gentlemans are quite diſtinct things, the Voice of the people, and our own experience, wil
+teſtifie.</p>
+            <p>In the next place he indeavours to fright us to his par<g ref="char:EOLhyphen"/>ty, by telling us, that on whatſoever
+terms the King may be brought in, and whatſoever fair pretences hee may make, yet at laſt all
+muſt terminate in the loſs of our friends, wives, and children, and the for ever miſ<g ref="char:EOLhyphen"/>loving
+of our poſterity. Alas, Sir, the cheat is now ſtale, and we underſtand our ſelves better
+then ſo, as to think any man, much leſs the King, ſo ſtrange a maſter, that he muſt
+ſacrifice us all to his luſt and revenge. Now we find where the ſhoo wrings; 'tis not the
+ſouldiery are like to ſuffer by his reſtitution; no, 'tis a <hi>Scot,</hi> a
+<hi>Haſil<g ref="char:EOLhyphen"/>rigge, a Walton,</hi> and ſuch, who having been already drunk with the blood of the
+ſlain, and gorged themſelves with the plentiful diſhes of other mens eſtates, do now begin
+to be terrified in conſcience, and to fear the diſgorging of their ſo ſweet morſels.</p>
+            <p>But to track him a little further, he ſeems already ſom<g ref="char:EOLhyphen"/>what like mad <hi>Tom,</hi> but now
+turns right <hi>Tom Fool,</hi> and tells us that his Majeſties re-admiſſion muſt be
+neceſſa<g ref="char:EOLhyphen"/>rily deſtructive to the welfare of the Nation; and to prove this, he aſſerts the
+vaſte charge the Nation muſt groan under, by the debts of his father, and himſelf,
+<pb n="10" facs="tcp:119591:7"/>which remain unſatisfied. But ſee what a ridiculous ac<g ref="char:EOLhyphen"/>count he makes. As
+firſt, the Arrears of the King in his warr againſt the Parlament: but I beſeech the
+Gentle<g ref="char:EOLhyphen"/>man to inform us where thoſe Armies are which ſhould receive thoſe Arrears, or thoſe
+ſouldiers which ſhould demand their pay, or who ever knew that routed forces had ever any right
+to demand their ſalaries.</p>
+            <p>Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> next is the young Kings charges in
+<hi>Scotland,</hi> and at <hi>Worceſter,</hi> to which what I have already ſaid is
+ſuffi<g ref="char:EOLhyphen"/>cient anſwer: ſo that the Gentleman muſt already be fain to ſubſtract above half
+of his twenty years doubled impoſitions. The reſt, as the debts the King hath con<g ref="char:EOLhyphen"/>tracted
+beyond ſeas, the dowry of the Queen Mother, and the debts of his Brothers and Siſter, are
+ſuch imagi<g ref="char:EOLhyphen"/>nary trifles, that it is more then probable that leſs then the ſumme of a ſix
+months Aſſeſſments, will defray the charges with an <hi>over-plus.</hi>
+            </p>
+            <p>And for the next particular, furniſhing and maintain<g ref="char:EOLhyphen"/>ing of his Court and Train, I would
+deſire the Gentle<g ref="char:EOLhyphen"/>man to conſider what was ſaid in the Parlament Houſe, by a perſon, who
+demanded of one of theſe pretended Common-wealths men, what he thought the charge of maintaining
+themſelves, and keeping out the family of the <hi>Stuarts</hi> would yearly amount to; his
+anſwer was, To twenty hundred thouſand pounds; Very good, repli<g ref="char:EOLhyphen"/>ed the other, and I dare
+undertake, that half that ſumme would bring him in, maintain him in a juſt ſplendor and
+dignity, and defray the charges of the Nation beſides. And yet theſe impudent Cozeners would
+make us be<g ref="char:EOLhyphen"/>lieve, that it were far better to keep him out with the intollerable oppreſſion and
+taxation of the people; then by bringing him in to releaſe them from the greateſt part of their
+burdens and miſery.</p>
+            <pb n="11" facs="tcp:119591:7"/>
+            <p>But to make up his bill of fare, he adds in the next place, That thoſe Dukes, Earls, Lords,
+&amp;c. whoſe e<g ref="char:EOLhyphen"/>ſtates have been ſold and diſpoſed by Authority of Par<g ref="char:EOLhyphen"/>lament, muſt
+either be reſtored, or ſatisfaction given for the ſame: Yes, here is that which bites to the
+quick, and this is the real definitiod of their <hi>Good Old Cauſe.</hi> But I deſire Mr.
+<hi>Scot</hi> and his friends to conſider, whether, if they ſhould loſe all their ill-gotten
+purchaſes, they can any way repine againſt God's juſt judgment, who ſel<g ref="char:EOLhyphen"/>dom or never
+continues ſuch unjuſt poſſeſſions to a ſe<g ref="char:EOLhyphen"/>cond or third generation. But yet if
+theſe men can pati<g ref="char:EOLhyphen"/>ently be quiet, and not by their new acts of treaſon againſt the quiet of
+the Kingdome, irritate and incenſe the people againſt them, there will doubtleſs be found out
+ſuch a medium as may make them no looſers, and yet the Eſtates return to the right owners;
+for I would fain know, if that money which they purchaſed theſe Lands with, be returned to the
+purchaſers, whether they will not be ſufficient gainers by having them ſo long in their
+hands; or if this be too much, as indeed it is to be reaſon granted, I would fain know whether
+the time they have already poſſeſſed thoſe Lands, hath not already paid them both
+principal and intereſt; but there is another thing which theſe men fear, that is, divers of
+them have purchaſed Crown, Church, and Delinquents Lands, and have agreed to pay at ſeveral
+payments, &amp; ſome of them have never ſatisfied above the firſt portion; and theſe are
+the men which fear (if account ſhould come to be ta<g ref="char:EOLhyphen"/>ken) they might juſtly be adjudged to part
+with theſe Lands at as trifling a price as they bought them; but I ſhall ſay no more as to
+this particular, having (I doubt) too far intruded into matters of State, for a man of the
+<pb n="12" facs="tcp:119591:8"/>profeſſion of a private Souldier, but ſhall with the reſt of my
+fellow-brethren acquieſce, as to this and all other points, in the determination of the joint
+body of the Na<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I ſhall not proceed much further, or meddle any long<g ref="char:EOLhyphen"/>er with the reſt of his rabblement,
+which contains no<g ref="char:EOLhyphen"/>thing but motions to Seditition, and the ready way to make us deſerve a halter;
+but for his comfort do tel him, that we really proteſt againſt all ſuch mutinous thoughts and
+are reſolved to live and dye with our worthy Gene<g ref="char:EOLhyphen"/>ral.</p>
+            <p>But before I conclude, ſeeing the Gentleman hath been pleaſed to ſay ſo much to us, let
+me be ſo bold as to de<g ref="char:EOLhyphen"/>mand a queſtion of him; Whether one grand reaſon of their being
+Enemies to the King and a free Parliament, do not proceed from the conſciouſneſs of their
+notorious cheating of the State, and privately pocketing up the Wealth of the Nation which was
+raiſed and paid for diſcharging the arrears of the Souldiery, who in the mean time have
+undergone all hardſhips and penury; and yet theſe Gentlemen can have the impudence to think
+that we ſhould leave the aſſured hope of our pay, and be contented once more with their
+imaginary promiſes, and that we ſhould forſake the ſervice of the nation in general, to
+make our ſelves ſlaves and Janizaries to the arbitrary wills of ſuch blood-ſucking tyrants.
+I have done with him; and if he conceive I have handled him too ſharply, let him know I have
+diſcharged but the part of a Gentleman and a Souldier, to vindicate my ſelf and my
+fellow-ſouldiers from thoſe deteſtable Titles of <hi>Vil<g ref="char:EOLhyphen"/>lains</hi> and
+<hi>Mutiniers.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:119591:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
